@@ -2,7 +2,7 @@
  <p align="center">💣 WhatsApp Bot Node-Js.</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Megumin+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+David+Chian;🐦‍⬛+BOOM!!!;🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Mika+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+Jostin-444;🐦‍⬛+BOOM!!!;🔥)](https://git.io/typing-svg)
 ![Megumin](https://i.ibb.co/6482pNJ/file.jpg)
 
 ---
