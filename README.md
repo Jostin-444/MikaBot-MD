@@ -1,8 +1,8 @@
-<h1 align="center">Megumin Bot - MD 💥</h1>
+<h1 align="center">Mika Bot - MD 🐦‍⬛</h1>
  <p align="center">💣 WhatsApp Bot Node-Js.</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Megumin+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+David+Chian;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Megumin+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+David+Chian;🐦‍⬛+BOOM!!!;🔥)](https://git.io/typing-svg)
 ![Megumin](https://i.ibb.co/6482pNJ/file.jpg)
 
 ---
@@ -142,19 +142,8 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 | WhatsApp | Canal Sunlight | [¡Click aquí!](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z) |
 | WhatsApp | Gc Megumin | [¡Click aquí!](https://chat.whatsapp.com/H5bw4MJucS1BBHnZ9wv3vI) |
 
----
-
-### **`🌴 COLABORADORES`**
-<a href="https://github.com/David-Chian/Megumin-Bot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=David-Chian/Megumin-Bot-MD" /> 
-</a>
-
 ### **`👑 PROPIETARIO`**
 <a
-href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="130" height="130" alt="David"/></a>
+href="https://github.com/Jostin-444"><img src="https://github.com/Jostin-444.png" width="130" height="130" alt="David"/></a>
 
-### **`🌹 CREDITOS`**
-<a
-href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="BrunoSobrino"/></a>
-
-[© Powered By Sunlight Team ⚡︎](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z)
+[© Powered By ム 𝐉𝐎𝐒𝐓𝐈𝐍-444 ㋰](https://whatsapp.com/channel/0029VaoofvK59Pwb79cg4S0V)
