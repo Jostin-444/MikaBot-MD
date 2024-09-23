@@ -45,8 +45,8 @@
 <summary><b> 💣 Contáctos</b></summary>
 
 * themeguminbot@gmail.com
-* https://wa.me/573218138672
-* https://wa.me/5351524614
+* https://wa.me/50242073893
+* https://wa.me/51902855352
 
 </details>
 
