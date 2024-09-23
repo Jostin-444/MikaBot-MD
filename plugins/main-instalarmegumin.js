@@ -1,7 +1,7 @@
 /*
 var handler  = async (m, { conn }) => {
 
-let texto = `🚩 *Instalación de Megumin-Bot-MD*
+let texto = `🚩 *Instalación de MikaBot-MD*
 
 ⬡ Dudas: ${creador}
 ⬡ Tutoríal: *¡Pronto!*
