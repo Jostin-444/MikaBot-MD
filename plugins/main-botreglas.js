@@ -13,7 +13,7 @@ let yaemori = `🚩 *Respeta las reglas de MikaBot MD*\n
 ⚠️ 𝗔𝘃𝗶𝘀𝗼: *Puedes apoyarnos dejando una estrellita 🌟 al repositorio oficial de Mika.*
 
 ${global.md}`.trim()
-await conn.reply(m.chat, yaemori, m, fake)
+await conn.reply(m.chat, Mika, m, fake)
 
 }
 handler.help = ['botreglas']
