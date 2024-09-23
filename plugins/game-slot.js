@@ -1,4 +1,4 @@
-//Codígo modificado por ya saben xd wa.me/5351524614
+//Codígo modificado por ya saben xd wa.me/50242073893
 
 import { delay } from "@whiskeysockets/baileys";
 
