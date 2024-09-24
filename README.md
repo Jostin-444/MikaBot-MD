@@ -63,11 +63,11 @@
 [`💥 Instalar Cloud Shell Clic Aqui`](https://www.mediafire.com/file/bp2l6cci2p30hjv/Cloud+Shell_1.apk/file)
 
 ```bash
-> git clone https://github.com/David-Chian/Megumin-Bot-MD
+> git clone https://github.com/Jostin-444/MikaBot-MD
 ```
 
 ```bash
-> cd Megumin-Bot-MD && yarn install
+> cd MikaBot-MD && yarn install
 ```
 
 ```bash
