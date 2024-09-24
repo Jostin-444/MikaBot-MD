@@ -539,7 +539,7 @@ await conn[_0x110137(0x1ba)](m[_0x110137(0x1b5)], buttonMessage, { 'quoted': ftr
 }
 
 handler.help = ['en', 'dis'].map(v => v + 'able <option>');
-handler.tags = ['group', 'owner'];
+handler.tags = ['group', 'owner', 'grupo'];
 handler.command = ['menulista','lista','listmenu','menulist'];
 handler.exp = 20;
 
