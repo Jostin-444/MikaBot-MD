@@ -193,13 +193,13 @@ await conn.sendMessage(
     mentionedJid: [m.sender],
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363307382381547@newsletter',
-      newsletterName: '⏤͟͞ू⃪ ፝͜⁞M͢ᴇɢ፝֟ᴜᴍ⃨ɪɴ⃜✰⃔࿐/ᥫᩣᎠ꯭I𝚫⃥꯭M꯭Ꭷ꯭Ꮑ꯭Ꭰ࠭⋆̟(◣_◢)凸',
+      newsletterJid: '120363336840968885@newsletter',
+      newsletterName: 'M҉͏i̢ka̶B͡ơ̴t͜-͟M̸͢D̨͝🔥̨҉/J̶͠o͟͝sti͝n̶̵-44̧4',
       serverMessageId: -1,
     },
     forwardingScore: 999,
     externalAdReply: {
-      title: '⏤͟͞ू⃪ ፝͜⁞M͢ᴇɢ፝֟ᴜᴍ⃨ɪɴ⃜✰⃔࿐',
+      title: 'M҉͏i̢ka̶B͡ơ̴t͜-͟M̸͢D̨͝🔥̨҉',
       body: dev,
       thumbnailUrl: icono,
       sourceUrl: redes,
