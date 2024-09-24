@@ -2,7 +2,7 @@ const handler = async (m, {conn}) => {
 
 conn.reply(m.chat, `MENSAJE DEL DESARROLLADOR 😊
 
-⚠️ ADVERTENCIA DEL CREADOR (David / Diamond) ⚠️
+⚠️ ADVERTENCIA DEL CREADOR (Jostin / 444) ⚠️
 
 Yo no me hago responsable del mal uso del bot o subbot, cada persona maneja el bot a su manera. Yo no me hago cargo de lo que le puede pasar a su cuenta de WhatsApp.
 
