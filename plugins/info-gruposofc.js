@@ -17,10 +17,10 @@ let str = `*📍 GRUPO OFICIAL*
 ┃❤️‍🔥❏ https://chat.whatsapp.com/Fy74b6fgE9SJJpHVi6CKJY
 
    *_Canal Oficial_*
-┃❤️‍🔥❏ https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820
+┃❤️‍🔥❏ https://whatsapp.com/channel/0029VapEN8R0lwgxucaEc843 
 
-   *_Canal Sunlight - Team_*
-┃❤️‍🔥❏ https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z
+   *_Canal Sunlight - Titanium Team_*
+┃❤️‍🔥❏ https://whatsapp.com/channel/0029VafjvaaEgGfOe5KdmX1n
 *_╰━━━━━━━━━━━━━━━━⊜_*
 `
 await conn.sendButton(m.chat, str, `͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞\n` + wm, media, [
