@@ -310,7 +310,7 @@ console.log(chalk.bold.greenBright(`🚩 Ai Mika conectado correctamente.`))
 
 await connectSubBots();
 } catch (error) {
-console.error(chalk.bold.cyanBright(`🍭 Error al iniciar Megumin-Bot: `, error))
+console.error(chalk.bold.cyanBright(`🍭 Error al iniciar MikaBot MD: `, error))
 }
 })();
 
