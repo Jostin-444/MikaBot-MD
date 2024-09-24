@@ -21,14 +21,14 @@ return
 cooldowns[m.sender] = Date.now()
 count = count ? /all/i.test(count) ? Math.floor(global.db.data.users[m.sender].limit / buatall) : parseInt(count) : args[0] ? parseInt(args[0]) : 1
 count = Math.max(1, count)
-if (args.length < 1) return conn.reply(m.chat, '💣 Ingresa la cantidad de ' + `🍪 *Cookies*` + ' que deseas aportar contra' + ` *Megumin-Bot-MD*` + `\n\n` + '`Ejemplo:`\n' + `> *${usedPrefix + command}* 100`, m, rcanal)
+if (args.length < 1) return conn.reply(m.chat, '💣 Ingresa la cantidad de ' + `🍪 *Cookies*` + ' que deseas aportar contra' + ` *MikaBot-MD*` + `\n\n` + '`Ejemplo:`\n' + `> *${usedPrefix + command}* 100`, m, rcanal)
 if (user.cookies >= count * 1) {
 user.cookies -= count * 1
 if (Aku > Kamu) {
-conn.reply(m.chat, '`💣 Veamos que numeros tienen!`\n\n'+ `➠ *MeguminBot* : ${Aku}\n➠ *${username}* : ${Kamu}\n\n> ${username}, *PERDISTE* ${formatNumber(count)} 🍪 Cookies.`.trim(), m, rcanal)
+conn.reply(m.chat, '`💣 Veamos que numeros tienen!`\n\n'+ `➠ *MikaBot* : ${Aku}\n➠ *${username}* : ${Kamu}\n\n> ${username}, *PERDISTE* ${formatNumber(count)} 🍪 Cookies.`.trim(), m, rcanal)
 } else if (Aku < Kamu) {
 user.cookies += count * 2
-conn.reply(m.chat, '`💥 Veamos que numeros tienen!`\n\n'+ `➠ *MeguminBot* : ${Aku}\n➠ *${username}* : ${Kamu}\n\n> ${username}, *GANASTE* ${formatNumber(count * 2)} 🍪 Cookies.`.trim(), m, rcanal)
+conn.reply(m.chat, '`💥 Veamos que numeros tienen!`\n\n'+ `➠ *MikaBot* : ${Aku}\n➠ *${username}* : ${Kamu}\n\n> ${username}, *GANASTE* ${formatNumber(count * 2)} 🍪 Cookies.`.trim(), m, rcanal)
 } else {
 user.cookies += count * 1
 conn.reply(m.chat, '`💥 Veamos que numeros tienen!`\n\n'+ `➠ *MeguminBot* : ${Aku}\n➠ *${username}* : ${Kamu}\n\n> ${username} obtienes ${formatNumber(count * 1)} 🍪 Cookies.`.trim(), m, rcanal)}
