@@ -140,7 +140,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 |------|-------------|-------|
 | WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029VapEN8R0lwgxucaEc843) |
 | WhatsApp | Canal Titanium Team | [¡Click aquí!](https://whatsapp.com/channel/0029VafjvaaEgGfOe5KdmX1n) |
-| WhatsApp | Gc Megumin | [¡Click aquí!](https://chat.whatsapp.com/H5bw4MJucS1BBHnZ9wv3vI) |
+| WhatsApp | Gc Mika | [¡Click aquí!](https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq) |
 
 ### **`👑 PROPIETARIO`**
 <a
