@@ -5,11 +5,11 @@ sudo dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-rel
 sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
 sudo dnf clean all -y
 
-RUN git clone https://github.com/David-Chian/Megumin-Bot-MD
+RUN git clone https://github.com/Jostin-444/MikaBot-MD
 
-WORKDIR /root/MeguminBot-MD
+WORKDIR /root/MikaBot-MD
 
-COPY ./root/MeguminBot-MD
+COPY ./root/MikaBot-MD
 
 RUN yarn install
 
