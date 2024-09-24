@@ -1,5 +1,5 @@
 let handler = async (m, { conn, args, text, usedPrefix, command }) => {
-if (!text) throw `🍟 Ingrese el número al que quiere enviar una invitación al grupo\n\n🚩 Ejemplo :\n*${usedPrefix + command}* 5351524614`
+if (!text) throw `🍟 Ingrese el número al que quiere enviar una invitación al grupo\n\n🚩 Ejemplo :\n*${usedPrefix + command}* 50242073893`
 if (text.includes('+')) throw  `🚩 Ingrese el número todo junto sin el *+*`
 if (isNaN(text)) throw '🍟 Ingrese sólo números más su código de país sin espacios'
 let group = m.chat
