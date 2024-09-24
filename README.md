@@ -138,8 +138,8 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
-| WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820) |
-| WhatsApp | Canal Sunlight | [¡Click aquí!](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z) |
+| WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029VapEN8R0lwgxucaEc843) |
+| WhatsApp | Canal Titanium Team | [¡Click aquí!](https://whatsapp.com/channel/0029VafjvaaEgGfOe5KdmX1n) |
 | WhatsApp | Gc Megumin | [¡Click aquí!](https://chat.whatsapp.com/H5bw4MJucS1BBHnZ9wv3vI) |
 
 ### **`👑 PROPIETARIO`**
