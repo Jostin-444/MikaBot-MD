@@ -37,7 +37,7 @@ const handler = async (m, { conn, usedPrefix }) => {
 │
 │•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 │
-│➸ ৎ୭࠭͢𝑴𝒆̤𝒈𝒖̣֟፝֯𝒎̤𝒊̣𝒏🔥̤ʙⷪᴏ͓ᷫᴛⷭ𓆪͟͞ 🧸📍
+│➸ M҉͏i̢ka̶B͡ơ̴t͜-͟M̸͢D̨͝🔥̨҉🧸📍
 ╰━━━━━━･❪ ❁ ❫ ･━━━━━━❖`.trim();
   const doc = [
     "pdf",
@@ -50,7 +50,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const Message = {
     document: { url: `https://chat.whatsapp.com/H5bw4MJucS1BBHnZ9wv3vI` },
     mimetype: `application/${document}`,
-    fileName: `「 𝘔𝘦𝘨𝘶𝘮𝘪𝘯-𝘉𝘰𝘵💥 」`,
+    fileName: `「 𝘔𝘪𝘬𝘢𝘉𝘰𝘵-𝘔𝘋💥 」`,
     fileLength: 99999999999999,
     pageCount: 200,
     contextInfo: {
