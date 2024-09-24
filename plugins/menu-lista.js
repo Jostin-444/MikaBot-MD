@@ -26,7 +26,7 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
     let rtotalreg = Object.values(global.db.data.users).filter(user => user.registered == true).length;
     const rtotal = Object.entries(global.db.data.users).length || '0'
     let name = await conn.getName(m.sender);
-    let pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => 'https://telegra.ph/file/24fa902ead26340f3df2c.png')
+    let pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => 'https://qu.ax/LOAm.jpg')
     const ftrol = {
     key : {
     remoteJid: 'status@broadcast',
@@ -499,7 +499,7 @@ return _0x1a2b8a;
 }
 let ti1 = '𝐸𝑥𝑝𝑙𝑜𝑠𝑖𝑜𝑛!!'
 let ti2 = '𝐻𝑜𝑙𝑎!!'
-let ti3 = '⏤͟͞ू⃪ ፝͜⁞M͢ᴇɢ፝֟ᴜᴍ⃨ɪɴ⃜✰⃔࿐'
+let ti3 = 'MłKλBØŦ-MÐ'
 let ti4 = '͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞'
 let ti5 = '𝐵𝑂𝑂𝑀𝑀!!!!'
 let ti6 = '𝐸𝑙 𝐵𝑜𝑡 𝑀𝑎𝑠 𝐸𝑥𝑝𝑜𝑠𝑖𝑣𝑜!'
