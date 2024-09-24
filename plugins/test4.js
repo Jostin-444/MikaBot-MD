@@ -20,7 +20,7 @@ const handler = async (m, { conn }) => {
       },
       {
         title: "Canal Oficial",
-        url: "https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820",
+        url: "https://whatsapp.com/channel/0029VapEN8R0lwgxucaEc843",
         fileName: "Canal Oficial - WhatsApp"
       }
     ];
