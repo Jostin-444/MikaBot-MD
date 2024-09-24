@@ -306,7 +306,7 @@ const mainBotAuthFile = 'MeguminSession';
 try {
 const mainBot = await connectionUpdate(mainBotAuthFile);
 global.conns.push(mainBot);
-console.log(chalk.bold.greenBright(`🚩 Ai Megumin conectado correctamente.`))
+console.log(chalk.bold.greenBright(`🚩 Ai Mika conectado correctamente.`))
 
 await connectSubBots();
 } catch (error) {
