@@ -31,7 +31,7 @@ user.cookies += count * 2
 conn.reply(m.chat, '`💥 Veamos que numeros tienen!`\n\n'+ `➠ *MikaBot* : ${Aku}\n➠ *${username}* : ${Kamu}\n\n> ${username}, *GANASTE* ${formatNumber(count * 2)} 🍪 Cookies.`.trim(), m, rcanal)
 } else {
 user.cookies += count * 1
-conn.reply(m.chat, '`💥 Veamos que numeros tienen!`\n\n'+ `➠ *MeguminBot* : ${Aku}\n➠ *${username}* : ${Kamu}\n\n> ${username} obtienes ${formatNumber(count * 1)} 🍪 Cookies.`.trim(), m, rcanal)}
+conn.reply(m.chat, '`💥 Veamos que numeros tienen!`\n\n'+ `➠ *MikaBot* : ${Aku}\n➠ *${username}* : ${Kamu}\n\n> ${username} obtienes ${formatNumber(count * 1)} 🍪 Cookies.`.trim(), m, rcanal)}
 } else conn.reply(m.chat, `No tienes *${formatNumber(count)} 🍪 Cookies* para apostar!`.trim(), m, rcanal)}
 
 handler.help = ['apostar *<cantidad>*']
