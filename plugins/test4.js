@@ -5,7 +5,7 @@ const handler = async (m, { conn }) => {
     const documents = [
       {
         title: "Grupo 1",
-        url: "https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt",
+        url: "https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq",
         fileName: "Grupo 1 - WhatsApp"
       },
       {
