@@ -8,7 +8,7 @@ let str = `*📍 GRUPO OFICIAL*
   ┃🧸❏ ${gp1}
 
    *_ ͟͞〾⃝̵͡𝑬⃗ꭙȾ⃯𝑟𝘦𝑚⃖𝚎֟֯፝͜❀̵⃕ ̤🄷𝕖ᷨɳͦᵵͭ𝐚͢𝖏♡̵̭̭̎͟͞ ₂₀፝֟֯࣪࣪࣪₁₂_*
-┃🧸❏ https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq 
+┃🧸❏  https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq
    
    *_Grupo de antojar 3.0_*
 ┃🧸❏ https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn
