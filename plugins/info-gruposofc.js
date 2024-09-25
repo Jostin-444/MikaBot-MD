@@ -8,18 +8,18 @@ let str = `*📍 GRUPO OFICIAL*
   ┃🧸❏ ${gp1}
 
    *_ ͟͞〾⃝̵͡𝑬⃗ꭙȾ⃯𝑟𝘦𝑚⃖𝚎֟֯፝͜❀̵⃕ ̤🄷𝕖ᷨɳͦᵵͭ𝐚͢𝖏♡̵̭̭̎͟͞ ₂₀፝֟֯࣪࣪࣪₁₂_*
-┃🧸❏ https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt
+┃🧸❏ https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq 
    
    *_Grupo de antojar 3.0_*
 ┃🧸❏ https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn
 
-   *_Grupo Sunlight - Team _*
-┃❤️‍🔥❏ https://chat.whatsapp.com/Fy74b6fgE9SJJpHVi6CKJY
+   *_Grupo Titanium - Team _*
+┃❤️‍🔥❏ https://chat.whatsapp.com/H1bkAbh52qC7IDDJn2m9tv 
 
    *_Canal Oficial_*
 ┃❤️‍🔥❏ https://whatsapp.com/channel/0029VapEN8R0lwgxucaEc843 
 
-   *_Canal Sunlight - Titanium Team_*
+   *_Canal - Titanium Team_*
 ┃❤️‍🔥❏ https://whatsapp.com/channel/0029VafjvaaEgGfOe5KdmX1n
 *_╰━━━━━━━━━━━━━━━━⊜_*
 `
