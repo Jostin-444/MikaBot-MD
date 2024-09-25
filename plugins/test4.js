@@ -10,12 +10,12 @@ const handler = async (m, { conn }) => {
       },
       {
         title: "Grupo 2",
-        url: "https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt",
+        url: "https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq",
         fileName: "Grupo 2 - WhatsApp"
       },
       {
         title: "Grupo 3",
-        url: "https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn",
+        url: "https://chat.whatsapp.com/H1bkAbh52qC7IDDJn2m9tv",
         fileName: "Grupo 3 - WhatsApp"
       },
       {
