@@ -22,7 +22,7 @@ return conn.reply(m.chat, `「💭」Solo puedes usar este comando en el bot pri
 }
 async function serbot() {
 let authFolderB = crypto.randomBytes(10).toString('hex').slice(0, 8);
-if (!fs.existsSync("./MeguminJadiBot/" + authFolderB)) {
+if (!fs.existsSync("./MikaJadiBot/" + authFolderB)) {
 fs.mkdirSync("./MeguminJadiBot/" + authFolderB, { recursive: true });
 }
 if (args[0]) {
