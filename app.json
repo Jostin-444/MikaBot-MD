@@ -7,7 +7,7 @@
 "success_url": "https://github.com/Jostin-444/MikaBot-MD",
 "keywords": [
 "nodejs", "heroku", "bot", "spanish", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
-"termux", "superbot", "multi-device", "md", "official", "javascript", "megumin-bot", "bot-megumin", "ai"],
+"termux", "superbot", "multi-device", "md", "official", "javascript", "mika-bot", "bot-mika", "ai"],
 "image": "heroku/nodejs",
 "buildpacks": [
 { "url": "heroku/nodejs" },
