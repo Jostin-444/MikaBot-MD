@@ -52,7 +52,7 @@ conn.sendMessage(m.chat, {image: {url: 'https://telegra.ph/file/c24470edcbe5e250
 }
 
 }
-handler.help = ['instalarmegumin']
+handler.help = ['instalarmika']
 handler.tags = ['main']
 handler.command = ['instalarmegu','instalarbot','instalarmegumin']
 
