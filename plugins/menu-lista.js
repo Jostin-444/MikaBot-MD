@@ -500,7 +500,7 @@ return _0x1a2b8a;
 let ti1 = '𝐸𝑥𝑝𝑙𝑜𝑠𝑖𝑜𝑛!!'
 let ti2 = '𝐻𝑜𝑙𝑎!!'
 let ti3 = 'MłKλBØŦ-MÐ'
-let ti4 = '͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞'
+let ti4 = '͟͞ J̶͠o͟͝sti͝n̶̵-44̧4 ͞'
 let ti5 = '𝐵𝑂𝑂𝑀𝑀!!!!'
 let ti6 = '𝐸𝑙 𝐵𝑜𝑡 𝑀𝑎𝑠 𝐸𝑥𝑝𝑜𝑠𝑖𝑣𝑜!'
 let ti = `${pickRandom([ti1,ti2,ti3,ti4,ti5,ti6])}`
