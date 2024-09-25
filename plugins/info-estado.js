@@ -8,7 +8,7 @@ const handler = async (m, {conn}) => {
     await conn.sendMessage(m.chat, { react: { text: '🤠', key: m.key } })
     const str = `
 ┏✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧
-┃⍣ 𝙈𝙚𝙜𝙪𝙢𝙞𝙣-𝘽𝙤𝙩✨️🌻
+┃⍣ 𝙈𝙞𝙠𝙖-𝘽𝙤𝙩✨️🌻
 ┃
 ┃⍣👋🏻𝘏𝘰𝘭𝘢: ${taguser}
 ┃
@@ -28,7 +28,7 @@ const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
     document: { url: `https://chat.whatsapp.com/H5bw4MJucS1BBHnZ9wv3vI` },
     mimetype: `application/${document}`,
-    fileName: `「 𝘔𝘦𝘨𝘶𝘮𝘪𝘯-𝘉𝘰𝘵💥 」`,
+    fileName: `「 𝘔𝘪𝘬𝘢-𝘉𝘰𝘵💥 」`,
     fileLength: 99999999999999,
     pageCount: 200,
     contextInfo: {
