@@ -277,7 +277,7 @@ process.on('uncaughtException', console.error)
 /* Echo por: https://github.com/elrebelde21 */
 
 async function connectSubBots() {
-const subBotDirectory = './MeguminJadiBot';
+const subBotDirectory = './MikaJadiBot';
 if (!existsSync(subBotDirectory)) {
 console.log('🚩 MikaBot MD no tiene Sub-Bots vinculados.');
 return;
