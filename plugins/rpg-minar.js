@@ -20,7 +20,7 @@ let info = `⛏️ *Te has adentrando en lo profundo de las cuevas*
 🕋 *Carbón*: ${coal}
 🪨 *Piedra*: ${stone}`
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💥 *Minando.. - MeguminBot* 💣', 'status@broadcast' )
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💥 *Minando.. - MikaBot* 💣', 'status@broadcast' )
 await m.react('⛏️')
 
 user.health -= 50
