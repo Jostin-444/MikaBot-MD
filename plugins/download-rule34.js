@@ -58,7 +58,7 @@ const handler = async (m, { conn, text }) => {
           mediaType: 1, 
           showAdAttribution: true,
           title: '♡  ͜ ۬︵࣪᷼⏜݊᷼𝙍𝙪𝙡𝙚 𝟑𝟒⏜࣪᷼︵۬ ͜ ',
-          body: '(⁄ ⁄•⁄ω⁄•⁄ ⁄) 𝙈𝙚𝙜𝙪𝙢𝙞𝙣🔥',
+          body: '(⁄ ⁄•⁄ω⁄•⁄ ⁄) MłKλBØŦ-MÐ🔥',
           previewType: 0, 
           thumbnail: rule,
           sourceUrl: cn 
@@ -123,7 +123,7 @@ const handler = async (m, { conn, text }) => {
               text: `✨️ RESULTADO DE: ${text}`
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "ᥫᩣᎠ꯭I𝚫⃥꯭M꯭Ꭷ꯭Ꮑ꯭Ꭰ࠭⋆̟(◣_◢)凸"
+              text: "M҉͏i̢ka̶B͡ơ̴t͜-͟M̸͢D̨͝🔥̨҉"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
               hasMediaAttachment: false
