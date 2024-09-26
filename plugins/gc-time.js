@@ -43,7 +43,7 @@ const handler = async (m, {conn, isAdmin, isOwner, args, usedPrefix, command}) =
   }
 };
 handler.help = ['grouptime *<open/close>* *<número>*'];
-handler.tags = ['group', 'gctime];
+handler.tags = ['group', 'gctime'];
 handler.command = /^(grouptime|gctime)$/i;
 
 handler.botAdmin = true;
