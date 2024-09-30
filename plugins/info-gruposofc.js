@@ -17,7 +17,7 @@ let str = `*📍 GRUPO OFICIAL*
 ┃❤️‍🔥❏ https://chat.whatsapp.com/H1bkAbh52qC7IDDJn2m9tv 
 
    *_Canal Oficial_*
-┃❤️‍🔥❏ https://whatsapp.com/channel/0029VapEN8R0lwgxucaEc843 
+┃❤️‍🔥❏ https://whatsapp.com/channel/0029VagOLYjJP217bgUkT00N 
 
    *_Canal - Titanium Team_*
 ┃❤️‍🔥❏ https://whatsapp.com/channel/0029VafjvaaEgGfOe5KdmX1n
