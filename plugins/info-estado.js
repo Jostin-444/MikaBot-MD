@@ -14,8 +14,8 @@ const handler = async (m, {conn}) => {
 ┃
 ┃⍣ *ꨄ︎ ⏳️ 𝘈𝘤𝘵𝘪𝘷𝘰:* ${uptime}
 ┃⍣ *ꨄ︎ ✅ 𝘉𝘰𝘵 𝘜𝘴𝘰 𝘗𝘶𝘣𝘭𝘪𝘤𝘰*
-┃⍣ *ꨄ︎ 🦁 𝘖𝘸𝘯𝘦𝘳: David Chian*
-┃⍣ *ꨄ︎ 🔗 𝘊𝘶𝘦𝘯𝘵𝘢𝘴 𝘖𝘧𝘤:* https://chat.whatsapp.com/H5bw4MJucS1BBHnZ9wv3vI
+┃⍣ *ꨄ︎ 🦁 𝘖𝘸𝘯𝘦𝘳: Jostin-444*
+┃⍣ *ꨄ︎ 🔗 𝘊𝘶𝘦𝘯𝘵𝘢𝘴 𝘖𝘧𝘤:* https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq 
 ╰✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧`.trim();
         const doc = [
     "pdf",
