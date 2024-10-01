@@ -23,7 +23,7 @@ font: 'chrome',
 align: 'center',
 colors: ['red']
 });
-say(`Developed By • David-Chian`, {
+say(`Developed By • Jostin-444`, {
 font: 'console',
 align: 'center',
 colors: ['yellow']
