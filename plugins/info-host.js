@@ -1,43 +1,62 @@
-//código editado x Mxz <3
-//▝▞▟▘▙▚▛▜▝▞▟▖▗▘▙▚▛▜▝
+//₢ǿ໓ቾ❡๏ Σδ፤†ɐ₫ศ メ͓͓͓͓͓͓͓  ოҳʓ <3
+//▝▞▟▘▙▚▛▜▝▞▟▖▗▘͓͓͓▙▚▛▜▝
+
 let handler = async (m, { conn, command, usedPrefix }) => {
-let txt = `👋 *¡Bienvenido a TK-Host  🚀💻*
-La plataforma más rápida y confiable para alojar tus servidores y potenciar tus proyectos. 🌐
+let txt = `︿︿︿︿︿︿︿︿︿︿︿︿︿︿︿
+〈 ┣•👋 *¡ꪡ𝛯ㄥር〄ʍ玄.*
+〈 ┣•  *λ কӃ -み𝛩令₮  🚀💻* •••
+  ⸤  ╰───╮ ..... ⸥
+La plataforma más rápida y confiable para alojar tus servidores y potenciar tus proyectos. 🌐*
 
-🔑 *Comienza ahora mismo:*
-- *Regístrate*: [https://dash.tk-joanhost.com]  
-- *Verifica tu cuenta*: revisa spam de Gmail oh que te verifique JoanTK
-- *Crea tu servidor*: [https://dash.tk-joanhost.com/servers]  
-- *Accede a tu servidor*: [https://panel.tk-joanhost.com]
+⊹█║▌│█│βყ║▌║ქ│Ծ│λ█ர║▌║▌║❜
 
-💳 *¿Quieres recargar coins?*
+ ꦿ⃟ۜ🔑 *Comienza ahora mismo:*
+. 　 · ✦ *Regístrate*: 〖 https://dash.tk-joanhost.com 〗
+. 　 · ✦ *Verifica tu cuenta*: revisa spam de Gmail oh que te verifique JoanTK
+. 　 · ✦ *Crea tu servidor*:   〖 https://dash.tk-joanhost.com/servers 〗
+. 　 · ✦ *Accede a tu servidor*:  〖 https://panel.tk-joanhost.com 〗
+- 
+l-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-l
 
-💡 *Compra tus coins* con *PayPal* de forma rápida y segura:  
-👉 [https://dash.tk-joanhost.com/store]
+*꒰➥ ¿Quieres recargar coins?*⇇۪͎꒱ ꣠  : ⁺˖
 
-*¿No tienes PayPal?*  
-¡No te preocupes! 🌍 También aceptamos *pagos internacionales**. Solo envía el monto solicitado en la tienda y el comprobante de pago. Activaremos tus *coins* rápidamente. 
+  ꦿ⃟ۜ💡 *Compra tus coins* con *PayPal* de forma rápida y segura:  
+👉 〖 https://dash.tk-joanhost.com/store 〗
 
-📱 *Para usuarios en Perú*:  
-- *Yape/Agora*: 927803866  
-- *Plin*: 976673519  
+l-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-l
 
-🌍 *Para clientes internacionales*:  
-- *Mercado Pago*: *02JOAN*  
-- *Astropay*: *02JOAN*
+*꒰➥ 🌍 *¿No tienes PayPal?* :⇇۪͎꒱ ꣠  : : ⁺˖
+. 　 · ✦ ¡No te preocupes! 🌍 También aceptamos *pagos internacionales*. Solo envía el monto solicitado en la tienda y el comprobante de pago. Activaremos tus *coins* rápidamente. 
 
+l-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-l
 
-✨ *Gracias por elegir TK-Host.* Estamos comprometidos a brindarte la mejor experiencia en alojamiento de servidores. 🚀 ¡Tu éxito es nuestra prioridad!
+ ꦿ⃟ۜ📱 *Para usuarios en Perú*:  
+. 　 · ✦ *Yape/Agora*: 927803866  
+. 　 · ✦ *Plin*: 976673519  
+- 
+l-░░░░░░░░░░░░░░░░░░-l
 
----
+*꒰➥ 🌍 Para clientes internacionales :⇇۪͎꒱ ꣠ : ⁺˖*
+. 　 · ✦ *Mercado Pago*: *02JOAN*  
+. 　 · ✦ *Astropay*: *02JOAN*
+- 
+l-░░░░░░░░░░░░░░░░░░-l
 
-    💥ᮬ᭄ᮬ᭄ Canal Oficial de TK-HOST:
-[https://whatsapp.com/channel/0029VaGGynJLY6d43krQYR2g]
+  ꦿ⃟ۜ✨ *Gracias por elegir TK-Host.* Estamos comprometidos a brindarte la mejor experiencia en alojamiento de servidores. 🚀 ¡Tu éxito es nuestra prioridad!
 
-      📲 Canal de Respaldo:
-[https://whatsapp.com/channel/0029VaoZXbk6RGJNYQVP8r27]
+l-░░░░░░░░░░░░░░░░░░-l
 
----` 
+*꒰➥ Canal Oficial de TK-HOST :⇇۪͎꒱ ꣠ ⁺˖*
+
+⟪ https://whatsapp.com/channel/0029VaGGynJLY6d43krQYR2g ⟫ 
+
+l-░░░░░░░░░░░░░░░░░░-|
+
+*꒰➥ Canal de respaldo :⇇۪͎꒱ ꣠ ⁺˖*
+
+⟪ https://whatsapp.com/channel/0029VaoZXbk6RGJNYQVP8r27 ⟫ 
+
+✰*ૢ✧ ཻུ۪۪⸙︽︽︽︽︽︽︽︽◌ ༉‧₊˚⁺ ˖˚` 
 await conn.sendMessage(m.chat, { text: txt,
 contextInfo:{
 forwardingScore: 9999999,
@@ -46,7 +65,7 @@ isForwarded: false,
 "showAdAttribution": true,
 "containsAutoReply": true,
 title: `🔥 亇Ӄ-ん૭ટｲ 🔥`,
-body: `✅ Hosting de Calidad`,
+body: `✯ꪳ͢ᮬ᭄ Hosting de Calidad`,
 "previewType": "PHOTO",
 thumbnailUrl: 'https://qu.ax/hXTXJ.jpg', 
 sourceUrl: 'https://dash.tk-joanhost.com'}}},
