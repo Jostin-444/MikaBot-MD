@@ -502,14 +502,14 @@ let ti2 = '𝐻𝑜𝑙𝑎!!'
 let ti3 = 'MłKλBØŦ-MÐ'
 let ti4 = '͟͞ J̶͠o͟͝sti͝n̶̵-44̧4 ͞'
 let ti5 = '𝐵𝑂𝑂𝑀𝑀!!!!'
-let ti6 = '𝐸𝑙 𝐵𝑜𝑡 𝑀𝑎𝑠 𝐸𝑥𝑝𝑜𝑠𝑖𝑣𝑜!'
+let ti6 = '𝐸𝑙 𝐵𝑜𝑡 𝑀𝑎𝑠 Pro!'
 let ti = `${pickRandom([ti1,ti2,ti3,ti4,ti5,ti6])}`
 let buttonMessage = {
     'document': {
         'url': md
     },
     'mimetype': td,
-    'fileName': 'E X P L O S I Ó N',
+    'fileName': 'M I K A',
     'fileLength': '99999999999999',
     'pageCount': '999',
     'contextInfo': {
