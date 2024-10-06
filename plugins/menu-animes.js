@@ -82,7 +82,7 @@ const document = doc[Math.floor(Math.random() * doc.length)];
     conn.reply(m.chat, '*🌻 Error Avisele Al Creador!.*', m);
   }
 };
-handler.command = ['animesmenu','menuanimes'];
+handler.command = ['animesmenu','menuanimes','menuanime'];
 handler.register = true
 handler.exp = 50;
 handler.fail = null;
