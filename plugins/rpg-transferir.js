@@ -71,7 +71,7 @@ export default handler;
 
 function special(type) {
   const b = type.toLowerCase();
-  const special = (['common', 'uncommon', 'megu', 'legendary', 'pet'].includes(b) ? ' Crate' : '');
+  const special = (['common', 'uncommon', 'mika', 'legendary', 'pet'].includes(b) ? ' Crate' : '');
   return special;
 }
 function isNumber(x) {
