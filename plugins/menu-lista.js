@@ -74,7 +74,7 @@ id: `${prefijo}owner`
 },
 {
 title: "│🔥│ɢʀᴜᴘᴏs ᴏғᴄ ᴅᴇʟ ʙᴏᴛ", 
-description: "ᴏʙᴛᴇɴ ʟᴀ ʟɪsᴛᴀ ᴅᴇ ʟᴏs ɢʀᴜᴘᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ᴍᴇɢᴜᴍɪɴ-ʙᴏᴛ",
+description: "ᴏʙᴛᴇɴ ʟᴀ ʟɪsᴛᴀ ᴅᴇ ʟᴏs ɢʀᴜᴘᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ 𝙼𝙸𝙺𝙰𝙱𝙾𝚃-𝙼𝙳",
 id: `${prefijo}groups`
 },
 {
@@ -84,7 +84,7 @@ id: `${prefijo}estado`
 },
 {
 title: "│❔│ɪɴғᴏ ᴅᴇʟ ʙᴏᴛ", 
-description: "ᴏʙᴛᴇɴ ʟᴀ ɪɴғᴏʀᴍᴀᴄɪᴏɴ ᴅᴇ ᴍᴇɢᴜᴍɪɴ-ʙᴏᴛ",
+description: "ᴏʙᴛᴇɴ ʟᴀ ɪɴғᴏʀᴍᴀᴄɪᴏɴ ᴅᴇ ᴍ𝙸𝙺𝙰𝙱𝙾𝚃-𝙼𝙳",
 id: `${prefijo}infobot`
 },
 {
