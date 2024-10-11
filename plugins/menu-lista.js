@@ -75,7 +75,7 @@ id: `${prefijo}owner`
 {
 title: "│🔥│ɢʀᴜᴘᴏs ᴏғᴄ ᴅᴇʟ ʙᴏᴛ", 
 description: "ᴏʙᴛᴇɴ ʟᴀ ʟɪsᴛᴀ ᴅᴇ ʟᴏs ɢʀᴜᴘᴏs ᴏғɪᴄɪᴀʟᴇs ᴅᴇ ᴍᴇɢᴜᴍɪɴ-ʙᴏᴛ",
-id: `${prefijo}grupos`
+id: `${prefijo}groups`
 },
 {
 title: "│❤️‍🔥│ᴇsᴛᴀᴅᴏ ᴅᴇʟ ʙᴏᴛ", 
