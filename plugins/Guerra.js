@@ -9,7 +9,6 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
     if (args.length < 2) return m.reply('➤ `𝗔𝗩𝗜𝗦𝗢` ⚜️\n\n*INGRESA UNA HORA*\n_Ejemplo: .guerra 10PM 🇲🇽_');
 
     const hora = args[0]; // Primer texto (hora)
-    const modalidad = args.slice(1).join(' '); // Segundo texto (modalidad), puede contener más de una palabra
 
     m.react('🎮');
 
