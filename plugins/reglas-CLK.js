@@ -5,8 +5,7 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
     const listaAdmins = groupAdmins.map((v, i) => ``).join('\n');
     const owner = groupMetadata.owner || groupAdmins.find(p => p.admin === 'superadmin')?.id || m.chat.split`-`[0] + '@s.whatsapp.net';
 
-   
-    if (args.length < 2) return m.reply('➤ `𝗔𝗩𝗜𝗦𝗢` ⚜️\n\n*\n_Ejemplo: .reglasclk_');
+  
 
     
 
