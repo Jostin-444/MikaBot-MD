@@ -44,9 +44,9 @@ ${modo}
     conn.sendFile(m.chat, pp, 'error.jpg', texto, m, true, { mentions: [...groupAdmins.map(v => v.id), owner] });
 
 }
-handler.help = ['4vs4infimasc <hora> <modalidad>']
+handler.help = ['4vs4 <hora> <modalidad>']
 handler.tags = ['ffvs']
-handler.command = /^(4x4infimasc|4vs4infimasc)$/i
+handler.command = /^(4x4|4vs4)$/i
 handler.admin = true
 handler.group = true
 
