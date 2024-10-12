@@ -6,15 +6,15 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
     const owner = groupMetadata.owner || groupAdmins.find(p => p.admin === 'superadmin')?.id || m.chat.split`-`[0] + '@s.whatsapp.net';
 
     // Verificar si se ingresaron suficientes argumentos (hora y modalidad)
-    if (args.length < 2) return m.reply('➤ `𝗔𝗩𝗜𝗦𝗢` ⚜️\n\n*INGRESA UNA HORA Y UNA MODALIDAD*\n_Ejemplo: .4vs4_');
+    if (args.length < 2) return m.reply('➤ `𝗔𝗩𝗜𝗦𝗢` ⚜️\n\n*INGRESA UNA HORA Y UNA MODALIDAD*\n_Ejemplo: .clk 10:00 Compe_');
 
     const hora = args[0]; // Primer texto (hora)
     const modalidad = args.slice(1).join(' '); // Segundo texto (modalidad), puede contener más de una palabra
 
     m.react('🎮');
 
-    let yo = ``;
-    let modo = ``;
+    let yo = `│🕓 𝗛𝗢𝗥𝗔: *${hora}*`;
+    let modo = `│🎮 𝗠𝗢𝗗𝗔𝗟𝗜𝗗𝗔𝗗: *${modalidad}*`;
 
     let texto = `┍𝑹𝒆𝒈𝒍𝒂𝒔 𝑪𝑳𝑲🗒️
 ┕𝑯𝑨𝑩𝑰𝑳𝑰𝑫𝑨𝑫 𝑨𝑪𝑻𝑰𝑽𝑨: 𝑨𝑳𝑶𝑲
@@ -58,9 +58,9 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
     conn.sendFile(m.chat, pp, 'error.jpg', texto, m, true, { mentions: [...groupAdmins.map(v => v.id), owner] });
 
 }
-handler.help = ['4vs46 <hora> <modalidad>']
-handler.tags = ['ffvs6']
-handler.command = /^(4x46|4vs46)$/i
+handler.help = ['clk <hora> <modalidad>']
+handler.tags = ['ffvs']
+handler.command = /^(clk1|clk)$/i
 handler.admin = true
 handler.group = true
 
