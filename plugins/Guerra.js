@@ -1,6 +1,6 @@
 var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
 
-    const pp = 'https://i.ibb.co/RzcdgWZ/file.jpg';
+    const pp = 'https://i.ibb.co/Wnt9yCm/file.jpg';
     const groupAdmins = participants.filter(p => p.admin);
     const listaAdmins = groupAdmins.map((v, i) => ``).join('\n');
     const owner = groupMetadata.owner || groupAdmins.find(p => p.admin === 'superadmin')?.id || m.chat.split`-`[0] + '@s.whatsapp.net';
