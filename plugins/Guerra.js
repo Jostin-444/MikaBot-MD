@@ -25,7 +25,7 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
 │
 │      ➤𝑬𝒏𝒄𝒂𝒓𝒈𝒂𝒅𝒙: 
 │      ➤𝑴𝒐𝒅: 
-│      ➤𝑯𝒐𝒓𝒂:${hora} ${modo} 
+│      ➤𝑯𝒐𝒓𝒂:${hora}
 │ㅤ
 │
 │ㅤ🤴 ▸
