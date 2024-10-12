@@ -16,8 +16,6 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
 ╰──────⚔──────╯
 ╭──────────────╮
 │ㅤ⏱ 𝐇𝐎𝐑𝐀𝐑𝐈𝐎 ${hora} 
-│ㅤ🇲🇽 𝐌𝐄𝐗 : 
-│ㅤ🇨🇴 𝐂𝐎𝐋 : 
 │➥ 𝐓𝐎𝐓𝐀𝐋 𝐒𝐀𝐋𝐀𝐒:
 │➥ 𝐂𝐀𝐒𝐈𝐋𝐋𝐀:
 │➥ 𝐉𝐔𝐆𝐀𝐃𝐎𝐑𝐄𝐒:
