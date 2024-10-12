@@ -12,4 +12,4 @@ function pickRandom(list) {
   return list[Math.floor(list.length * Math.random())];
 }
 
-global.sisked = ['reglas'];
+global.sisked = ['hola'];
