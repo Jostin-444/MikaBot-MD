@@ -24,7 +24,7 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
 │
 │      ➤𝑬𝒏𝒄𝒂𝒓𝒈𝒂𝒅𝒙: 
 │      ➤𝑴𝒐𝒅: 
-${mod} 
+${yo} 
 │ㅤ
 │
 │ㅤ🤴 ▸
