@@ -14,7 +14,7 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
     m.react('🎮');
 
     let yo = `│🕓 𝗛𝗢𝗥𝗔: *${hora}*`;
-    let modo = `│🎮 𝗠𝗢𝗗𝗔𝗟𝗜𝗗𝗔𝗗: *${modalidad}*`;
+    let modo = `│🎮 𝗠𝗢𝗗𝗔𝗟𝗜𝗗𝗔𝗗: *${mod}*`;
 
 
 
