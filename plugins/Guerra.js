@@ -38,9 +38,9 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
     conn.sendFile(m.chat, pp, 'error.jpg', texto, m, true, { mentions: [...groupAdmins.map(v => v.id), owner] });
 
 }
-handler.help = ['guerra']
+handler.help = ['6vs6 <hora> <modalidad>']
 handler.tags = ['ffvs']
-handler.command = /^(guerra1|guerra)$/i
+handler.command = /^(6x6|6vs6)$/i
 handler.admin = true
 handler.group = true
 
