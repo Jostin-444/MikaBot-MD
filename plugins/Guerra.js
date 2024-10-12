@@ -38,7 +38,7 @@ ${modo}
     conn.sendFile(m.chat, pp, 'error.jpg', texto, m, true, { mentions: [...groupAdmins.map(v => v.id), owner] });
 
 }
-handler.help = ['guerra <hora> <modalidad>']
+handler.help = ['guerra']
 handler.tags = ['ffguerra']
 handler.command = /^(guerra1|guerra)$/i
 handler.admin = true
