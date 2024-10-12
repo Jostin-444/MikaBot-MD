@@ -5,7 +5,7 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
     const listaAdmins = groupAdmins.map((v, i) => ``).join('\n');
     const owner = groupMetadata.owner || groupAdmins.find(p => p.admin === 'superadmin')?.id || m.chat.split`-`[0] + '@s.whatsapp.net';
 
-    // Verificar si se ingresaron suficientes argumentos (hora y modalidad)
+    // Verificar si se ingresaron suficientes argumentos (hora) 
     if (args.length < 2) return m.reply('➤ `𝗔𝗩𝗜𝗦𝗢` ⚜️\n\n*INGRESA UNA HORA Y UNA MODALIDAD*\n_Ejemplo: .guerra 10:00_');
 
     const hora = args[0]; // Primer texto (hora)
