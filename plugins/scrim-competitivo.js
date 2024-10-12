@@ -37,9 +37,9 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
     conn.sendFile(m.chat, pp, 'error.jpg', texto, m, true, { mentions: [...groupAdmins.map(v => v.id), owner] });
 
 }
-handler.help = ['scrim']
+handler.help = ['scrim <hora>']
 handler.tags = ['ffvs']
-handler.command = /^(scrim|scrim)$/i
+handler.command = /^(scrim|scrim1)$/i
 handler.admin = true
 handler.group = true
 
