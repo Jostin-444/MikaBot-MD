@@ -1,12 +1,13 @@
 var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
 
-    const pp = 'https://i.ibb.co/VCSV6mM/file.jpg';
+    const pp = 'https://i.ibb.co/Wnt9yCm/file.jpg';
     const groupAdmins = participants.filter(p => p.admin);
     const listaAdmins = groupAdmins.map((v, i) => ``).join('\n');
     const owner = groupMetadata.owner || groupAdmins.find(p => p.admin === 'superadmin')?.id || m.chat.split`-`[0] + '@s.whatsapp.net';
 
+    // Verificar si se ingresaron suficientes argumentos (hora) (return m.reply('➤ `𝗔𝗩𝗜𝗦𝗢` ⚜️\n\n*INGRESA UNA HORA*\n_Ejemplo: .guerra 10PM_');
 
-    let yo = `│🕓 𝗛𝗢𝗥𝗔: *${hora}*`; 
+    const hora = args[0]; // Primer texto (hora)
 
     m.react('🎮');
 
