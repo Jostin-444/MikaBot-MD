@@ -23,7 +23,7 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
   𝐆𝐔𝐄𝐑𝐑𝐀 𝐃𝐄 𝐂𝐋𝐀𝐍𝐄𝐒
 ╰──────⚔──────╯
 ╭──────────────╮
-│ㅤ⏱ 𝐇𝐎𝐑𝐀𝐑𝐈𝐎: {hora} 
+│ㅤ⏱ 𝐇𝐎𝐑𝐀𝐑𝐈𝐎: ${hora} 
 │➥ 𝐉𝐔𝐆𝐀𝐃𝐎𝐑𝐄𝐒:
 │
 │     *𝗘𝗦𝗖𝗨𝗔𝗗𝗥𝗔 1*
