@@ -6,8 +6,7 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
     const owner = groupMetadata.owner || groupAdmins.find(p => p.admin === 'superadmin')?.id || m.chat.split`-`[0] + '@s.whatsapp.net';
 
 
-
-
+    let yo = `│🕓 𝗛𝗢𝗥𝗔: *${hora}*`; 
 
     m.react('🎮');
 
@@ -15,7 +14,7 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
 ㅤ𝐒𝐂𝐑𝐈𝐌𝐒 𝐂𝐎𝐌𝐏𝐄𝐓𝐈𝐓𝐈𝐕𝐎
 ╰──────⚔──────╯
 ╭──────────────╮
-│ㅤ⏱ 𝐇𝐎𝐑𝐀𝐑𝐈𝐎 
+│ㅤ⏱ 𝐇𝐎𝐑𝐀𝐑𝐈𝐎 ${hora} 
 │ㅤ🇲🇽 𝐌𝐄𝐗 : 
 │ㅤ🇨🇴 𝐂𝐎𝐋 : 
 │➥ 𝐓𝐎𝐓𝐀𝐋 𝐒𝐀𝐋𝐀𝐒:
