@@ -14,7 +14,7 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
     m.react('🎮');
 
     let yo = `│🕓 𝗛𝗢𝗥𝗔: *${hora}*`;
-    let modo = `│ *${modalidad}*`;
+    
 
 
 
@@ -38,7 +38,7 @@ var handler = async (m, { conn, participants, groupMetadata, args, text }) => {
     conn.sendFile(m.chat, pp, 'error.jpg', texto, m, true, { mentions: [...groupAdmins.map(v => v.id), owner] });
 
 }
-handler.help = ['guerra <hora> <modalidad>']
+handler.help = ['guerra <hora>']
 handler.tags = ['ffvs']
 handler.command = /^(guerra1|guerra)$/i
 handler.admin = true
