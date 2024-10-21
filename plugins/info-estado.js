@@ -5,7 +5,7 @@ const handler = async (m, {conn}) => {
     const _uptime = process.uptime() * 1000;
     const uptime = clockString(_uptime);
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
-    await conn.sendMessage(m.chat, { react: { text: '🤠', key: m.key } })
+    await conn.sendMessage(m.chat, { react: { text: 🧑‍💻', key: m.key } })
     const str = `
 ┏✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧
 ┃⍣ 𝙈𝙞𝙠𝙖-𝘽𝙤𝙩✨️🌻
