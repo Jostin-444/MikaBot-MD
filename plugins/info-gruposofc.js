@@ -7,20 +7,20 @@ let str = `*📍 GRUPO OFICIAL*
    *_〾̷̸‣⃝⃨⃛⃰⁝̵̓ᝒ͙🐦‍⬛ㄔMłKλBØŦ-MÐ𖤍*
   ┃🧸❏ ${gp1}
 
-   *_ ͟͞〾⃝̵͡𝑬⃗ꭙȾ⃯𝑟𝘦𝑚⃖𝚎֟֯፝͜❀̵⃕ ̤🄷𝕖ᷨɳͦᵵͭ𝐚͢𝖏♡̵̭̭̎͟͞ ₂₀፝֟֯࣪࣪࣪₁₂_*
-┃🧸❏  https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq
+   *_Max-bot OFC*
+┃🧸❏  
    
-   *_Grupo de antojar 3.0_*
-┃🧸❏ https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn
+   *_Grupo de NarutoBot-Ai_*
+┃🧸❏ 
 
    *_Grupo Titanium - Team _*
-┃❤️‍🔥❏ https://chat.whatsapp.com/H1bkAbh52qC7IDDJn2m9tv 
+┃❤️‍🔥❏  
 
    *_Canal Oficial_*
 ┃❤️‍🔥❏ https://whatsapp.com/channel/0029VagOLYjJP217bgUkT00N 
 
-   *_Canal - Titanium Team_*
-┃❤️‍🔥❏ https://whatsapp.com/channel/0029VafjvaaEgGfOe5KdmX1n
+   *_Canal - _*
+┃❤️‍🔥❏ 
 *_╰━━━━━━━━━━━━━━━━⊜_*
 `
 await conn.sendButton(m.chat, str, `͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞\n` + wm, media, [
