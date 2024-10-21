@@ -26,7 +26,7 @@ const handler = async (m, {conn}) => {
   ];
 const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/H5bw4MJucS1BBHnZ9wv3vI` },
+    document: { url: `https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq` },
     mimetype: `application/${document}`,
     fileName: `「 𝘔𝘪𝘬𝘢-𝘉𝘰𝘵💥 」`,
     fileLength: 99999999999999,
