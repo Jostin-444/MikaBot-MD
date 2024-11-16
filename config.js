@@ -98,7 +98,7 @@ global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `⏤͟͞M҉͏i̢ka̶B͡ơ̴t͜-͟M̸͢D̨͝🔥\n  ͟͞ 𓆩ꪶꪾ𝘿᪶𝙞ᷨ𝙖ᷞ𝙢ͣ𝙤᪶ͨ𝙣ᷜ𝙙ꫂৎ୭࠱࠭ ͟͞`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq' //Grupo Oficial De MikaBot-MD
+global.gp1 = 'https://chat.whatsapp.com/DVt1mhZ6H7EIpt4lmjURwq' //Grupo Oficial De MikaBot-MD
 global.channel = 'https://whatsapp.com/channel/0029VapEN8R0lwgxucaEc843' //Canal Oficial
 global.yt = 'https://youtube.com/@GastinFF' //Canal De Youtube
 global.md = 'https://github.com/Jostin-444/MikaBot-MD' //Github Oficial
